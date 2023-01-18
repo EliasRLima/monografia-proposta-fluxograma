@@ -1,0 +1,25 @@
+Historicamente, percebe-se uma alta taxa de reprovação e/ou evasão nas disciplinas
+introdutórias de lógica de programação dos cursos relacionados à tecnologia da informação
+e comunicação, nos diferentes níveis de ensino (DETERS et al., 2008). Como resultado
+deste fato observado, surgiram muitas metodologias visando melhorar a introdução nessas
+disciplinas e facilitar a assimilação pelo aluno. 
+Como exemplo tem-se o ensino por meio da pseudolinguagem Portugol que é usada nos paises onde a 
+lingua nativa é o Portugues e tem como objetivo fazer com que o estudante use termos que esta mais 
+familiarizado. Para auxiliar no ensino pelo Portugol, diversas ferramentas estão disponiveis no mercado 
+com diversas features para criar, editar, interpretar e executar código, como VisuAlg, Portugol-IDE e 
+Portugol Studio.
+Desde o inicio do século XXI, um termo vem ganhando destaque e sendo cada vez mais popularizado no mercado
+de softwares: Low Code. Esse termo é usado para ferramentas que utilizam de alta abstração de código para 
+geração de aplicações. Apenas por meio de interações com interfaces e modelagens é possível gerar aplicativos 
+prontos para serem usados de forma profissional. Pelas suas facilidades e remoção da necessidade de aprender 
+a fundo codificação, o Low Code vem ganhando espaço em um mercado que busca resolver a dificuldade para 
+preencher as vagas para desenvolvimento de software.
+O Gartner, empresa que se destaca-se por pesquisas, consultorias, eventos e as prospecções que 
+envolvem o mercado de TI, vem colocando em seus relatorios anuais a participação do Low Code no mercado e
+incluindo previsões que vêm se concluindo a cada ano. A próxima previsão feita pelo Gartner é que o uso 
+de ferramentas Low Code chegue em 50% das empresas de médio e grande porte durante o ano de 2023 (VINCENT, 2020).
+Ele ainda aponta que, em 2024, a % de produtos e serviços tecnológicos desenvolvidos por profissionais fora de TI
+será maior que a % desenvolvida por profissionais da área e que uma das ferramentas que fará isso possivel é o 
+desenvolvimento de software Low Code (RIMOL, 2021).
+
+
