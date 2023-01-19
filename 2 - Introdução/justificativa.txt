@@ -8,18 +8,26 @@ lingua nativa é o Portugues e tem como objetivo fazer com que o estudante use t
 familiarizado. Para auxiliar no ensino pelo Portugol, diversas ferramentas estão disponiveis no mercado 
 com diversas features para criar, editar, interpretar e executar código, como VisuAlg, Portugol-IDE e 
 Portugol Studio.
-Desde o inicio do século XXI, um termo vem ganhando destaque e sendo cada vez mais popularizado no mercado
+No cenário mais recente um termo vem ganhando destaque e sendo cada vez mais popularizado no mercado
 de softwares: Low Code. Esse termo é usado para ferramentas que utilizam de alta abstração de código para 
 geração de aplicações. Apenas por meio de interações com interfaces e modelagens é possível gerar aplicativos 
-prontos para serem usados de forma profissional. Pelas suas facilidades e remoção da necessidade de aprender 
-a fundo codificação, o Low Code vem ganhando espaço em um mercado que busca resolver a dificuldade para 
-preencher as vagas para desenvolvimento de software.
-O Gartner, empresa que se destaca-se por pesquisas, consultorias, eventos e as prospecções que 
-envolvem o mercado de TI, vem colocando em seus relatorios anuais a participação do Low Code no mercado e
-incluindo previsões que vêm se concluindo a cada ano. A próxima previsão feita pelo Gartner é que o uso 
-de ferramentas Low Code chegue em 50% das empresas de médio e grande porte durante o ano de 2023 (VINCENT, 2020).
-Ele ainda aponta que, em 2024, a % de produtos e serviços tecnológicos desenvolvidos por profissionais fora de TI
-será maior que a % desenvolvida por profissionais da área e que uma das ferramentas que fará isso possivel é o 
-desenvolvimento de software Low Code (RIMOL, 2021).
-
-
+prontos para serem usados de forma profissional. Pelas suas facilidades e uso de programaçao visual ao inves de 
+codificação, o Low Code vem ganhando espaço em um mercado que busca resolver a dificuldade para preencher as 
+vagas para desenvolvimento de software, isso ocorre devido estas ferramentas serem uma alternativa que permite 
+o desenvolvimento de softwares por pessoas que nunca codificaram.
+Programação visual tambem teve uma certa relevância no ensino de programação e era muito utilizada por meio de 
+fluxogramas até os anos 80. Seu uso era justificado pelo fato de que o hemistério esquerdo do cerebro do ser humano
+processa informação oral e lógica, enquanto o hemisferio direito processa informação visual e espacial. Quando o aluno
+interpreta código texto, o processamento de suas ideias é trabalhado somente por um lado do cérebro e por isso o uso
+de figuras visuais seria a chave para estimular ambos os hemisférios (Da Silva, 2001).
+Segundo (Scanlan, 1989) o uso de programação visual entrou em declinio apos o trabalho de (Shneiderman et al, 1977) que
+apresentou como resultado de seus estudos que o uso de fluxograma não apresentava ganhos de aprendizagem quando comparado
+com o uso de pseudocódigos e, portanto, não tinha grande utilidade para programadores. No entanto Scalan contesta estes
+resultados e em seu trabalho demontra que nos grupos onde foi usado programação visual o encontrado foi menores tempos
+para a compreensão, menor número de erros, ganho na confiança e queda no tempo para a resolução de algoritmos médios e
+complexos.
+Sendo assim, diante do exposto e de analise dos estudos de (Da Silva, 2001), (Crews e Ziegler, 1998) e (Scanlan, 1989),
+este trabalho apresenta uma proposta de uso de metodologia de ensino por meio de programação visual para ensino de 
+algoritmos e lógica. Para isso será utilizado a IDE Mapler Interpretador Portugol, um ambiente desenvolvido para ensino 
+de lógica por meio de Portugol que entre suas features temos uma interface de desenvolvimento de fluxogramas e, características
+particulares, como a tradução para diversas linguagens de alto nível.

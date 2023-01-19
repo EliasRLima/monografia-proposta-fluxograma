@@ -1,3 +1,20 @@
 
 Fundamentos de Análise de algoritmos e estruturas de Dados, Alexandre L M Levada, UFSCar - 2023
 
+Crews T. e Ziegler U. (1998) The Flowchart Interpreter for Introductory Programming
+Courses. Department of Computer Science Western Kentuchy University Bowling
+Green. 
+
+Da Silva, M. A. V.; et al; (2001) MODI – A Proposal of a visual tool to simulate and
+synthesize software applied to embedded systems. DEMIC / FEEC / UNICAMP. 
+
+RIMOL, Meghan. Gartner Says the Majority of Technology Products and Services Will Be
+Built by Professionals Outside of IT by 2024 Gartner, Stamford, 14, junho 2021.
+Disponível em: <https://www.gartner.com/en/newsroom/press-releases/2021-06-10-gartnersays-the-majority-of-technology-products-and-services-will-be-built-by-professionalsoutside-of-it-by-2024>.
+Acesso em: 19, Janeiro de 2023
+
+Scanlan, A. D. (1989) Structured Flowcharts Outperform Pseudocode: An Experimental
+Comparisons. California States University at Sacramento. 
+
+Shneiderman B. et al, (1977) "Experimental Investigations of the Utility of Detailed
+Flowcharts in Programming." Comm. ACM, pp. 373-381 

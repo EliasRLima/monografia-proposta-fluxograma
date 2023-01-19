@@ -1,0 +1,7 @@
+O Gartner, empresa que se destaca-se por pesquisas, consultorias, eventos e as prospecções que 
+envolvem o mercado de TI, vem colocando em seus relatorios anuais a participação do Low Code no mercado e
+incluindo previsões que vêm se concluindo a cada ano. A próxima previsão feita pelo Gartner é que o uso 
+de ferramentas Low Code chegue em 50% das empresas de médio e grande porte durante o ano de 2023 (VINCENT, 2020).
+Ele ainda aponta que, em 2024, a % de produtos e serviços tecnológicos desenvolvidos por profissionais fora de TI
+será maior que a % desenvolvida por profissionais da área e que uma das ferramentas que fará isso possivel é o 
+desenvolvimento de software Low Code (RIMOL, 2021).
