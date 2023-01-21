@@ -1,6 +1,48 @@
 Durante toda a historia se desenvolveu diversas formas de treinar raciocinio e resolução de algoritmos, foram usados desafios, charadas, calculos matemático, mapas mentais e diversas outras formas. Na computação surgiram linguagens e psudolinguegem que tinham como objetivo facilitar o ensino de programação, para isso buscavam diminuir sua complexidade e ficar o mais próximo possível da linguagem nativa do estudante. 
 
-No Brasil desde a década de 1970 é utilizado o Portugol, tambem conhecido como Português estruturado, e este é originalmente uma tradução da linguagem de programação Pascal para a língua portuguesa. Com a popularização do Portugol surgiram diversos derivados deste e alguns até adaptados para outras linguagens de programação com C e Java. Esta pseudolinguagem é bastante utilizada para ensino de lógica e tem como vantagem que o estudante não necessite conhecer uma linguagem estrangeira podendo programar usando sua lingua nativa. 
+No Brasil desde a década de 1970 é utilizado o Portugol, tambem conhecido como Português estruturado, e este é originalmente uma tradução da linguagem de programação Pascal para a língua portuguesa. O Portugol evoluiu muito desde sua primeira versão e já apresenta suporte para comandos, operadores, funções, recursividade e diversas estruturas de dados. 
+Para utilizar o Portugol não necessariamente se faz necessário uma IDE, mas caso deseje rodar o código em Portugol como se o mesmo fosse de fato uma linguegem existem diversas ferramentas capazes de auxiliar com isso, como por exemplo o VisualG, o Portugol Studio e o Mapler - Interpretador Portugol.
 
-O Portugol evoluiu muito desde sua primeira versão e já apresenta suporte para comandos, operadores, funções, recursividade e diversas estruturas de dados. 
-Para utilizar o Portugol não necessariamente se faz necessário uma IDE, mas caso deseje rodar o código em Portugol como se o mesmo fosse de fato uma linguegem existem diversas ferramentas capazes de auxiliar com isso, como por exemplo o VisualG, o Portugol Studio e, a ferramenta que este trabalho irá utilizar, o Mapler - Interpretador Portugol.
+Com a popularização do Portugol surgiram diversos derivados deste e alguns até adaptados para outras linguagens de programação com C e Java. Esta pseudolinguagem é bastante utilizada para ensino de lógica e tem como vantagem que o estudante não necessite conhecer uma linguagem estrangeira podendo programar usando sua lingua nativa. Devido ao fato do Portugol não ser um linguagem oficial o mesmo apresenta diversas sintaxes, para este trabalho utilizarei a proposta de sintaxe do Mapler - Interpretador Portugol.
+
+A sintaxe do Portugol segundo o mapler é dividida em cinco grupos, sendo eles:
+1. Estruturas: Englobam blocos, comandos de entradas e saída e módulos.
+2. Tipos: Definem os tipos de dados que serão armazenados nas variaveis.
+3. Operadores: Representam sinais que realizam, em geral, operações entre as variaveis.
+4. Condicionais: São blocos lógicos que dependem de condições para serem executados.
+5. Laços: São blocos que repetem o código quantas vezes forem necessárias.
+
+Um exemplo prático de código Portugol do Mapler:
+
+############### EXEMPLO #####################
+
+variaveis
+	//O modulo precisa ser declarado no bloco principal
+	soma;
+	a, b:inteiro;
+
+inicio
+    escrever "Digite o valor A: ";
+	leia a;
+    escrever "Digite o valor B: ";
+    leia b;
+
+	soma;
+
+    se a > b entao
+        escrever "A é um valor maior do que B.";
+    fim se;
+
+fim
+
+modulo soma 
+	escrever a, "+", b, "=", a+b; 
+fim modulo;
+
+
+##############################################
+
+No mapler a estrutura do código é bem relevante. O mesmo deve ser estruturado com os blocos variaveis, inicio, fim e, opcionalmente, o bloco modulo. 
+Explicando alguns elementos desse código: 
+O tipo inteiro nas variaveis indica que as mesma irão armazenar valores numericos, o comando escrever é usado para mostrar algo na tela (uma saida no console), o comando leia recebe um valor digitado pelo usuário, o bloco SE é um condicional que faz uma verificação e caso a mesma seja verdadeira os seus comandos internos serão executados. 
+Neste código temos um bloco de modulo, este funciona semelhante as funções de linguagens de programação e sua principal vantagem é que pode ser chamado varias vezes de maneira simples reaproveitando assim seu conteudo e evitando que o mesmo código seja repetido em vários pontos do algoritmo.
