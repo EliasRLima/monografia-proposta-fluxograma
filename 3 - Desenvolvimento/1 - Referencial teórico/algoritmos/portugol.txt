@@ -42,7 +42,6 @@ fim modulo;
 
 ##############################################
 
-No mapler a estrutura do código é bem relevante. O mesmo deve ser estruturado com os blocos variaveis, inicio, fim e, opcionalmente, o bloco modulo. 
-Explicando alguns elementos desse código: 
+No mapler a estrutura do código é bem relevante. O mesmo deve ser estruturado com os blocos variaveis, inicio, fim e, opcionalmente, o bloco modulo. Explicando alguns elementos desse código: 
 O tipo inteiro nas variaveis indica que as mesma irão armazenar valores numericos, o comando escrever é usado para mostrar algo na tela (uma saida no console), o comando leia recebe um valor digitado pelo usuário, o bloco SE é um condicional que faz uma verificação e caso a mesma seja verdadeira os seus comandos internos serão executados. 
 Neste código temos um bloco de modulo, este funciona semelhante as funções de linguagens de programação e sua principal vantagem é que pode ser chamado varias vezes de maneira simples reaproveitando assim seu conteudo e evitando que o mesmo código seja repetido em vários pontos do algoritmo.
