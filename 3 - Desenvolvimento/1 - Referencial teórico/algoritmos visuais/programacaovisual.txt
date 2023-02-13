@@ -1,3 +1,5 @@
+Low code é uma tecnologia de desenvolvimento de aplicativos que permite a criação de soluções em uma quantidade mínima de código, utilizando ferramentas visuais, modelos pré-construídos e drag-and-drop para a construção de interfaces de usuário e lógica de negócios. Isso significa que os desenvolvedores e equipes de negócios podem criar aplicativos rapidamente, sem a necessidade de conhecimento profundo de programação. O objetivo é tornar o processo de desenvolvimento de aplicativos mais acessível e eficiente, permitindo que as equipes concentrem seus esforços na resolução de problemas de negócios específicos.
+
 O Gartner, empresa que se destaca-se por pesquisas, consultorias, eventos e as prospecções que 
 envolvem o mercado de TI, vem colocando em seus relatorios anuais a participação do Low Code no mercado e
 incluindo previsões que vêm se concluindo a cada ano. A próxima previsão feita pelo Gartner é que o uso 
@@ -5,3 +7,26 @@ de ferramentas Low Code chegue em 50% das empresas de médio e grande porte dura
 Ele ainda aponta que, em 2024, a % de produtos e serviços tecnológicos desenvolvidos por profissionais fora de TI
 será maior que a % desenvolvida por profissionais da área e que uma das ferramentas que fará isso possivel é o 
 desenvolvimento de software Low Code (RIMOL, 2021).
+
+Um Low Code muito conhecido no mundo é o fluxograma. A sua origem remonta ao final do século XIX, quando foram utilizados para representar processos industriais. No entanto, foi com o desenvolvimento da programação de computadores no século XX que eles se tornaram populares na área de tecnologia da informação. O fluxograma é um diagrama que representa um processo ou algoritmo, usando símbolos e setas para mostrar o fluxo de etapas. Ele fornece uma representação visual da lógica, estrutura e fluxo de controle de um programa. Fluxogramas são comumente usados em engenharia de software, modelagem de processos de negócios e educação para explicar e entender processos complexos.
+
+Vantagens de usar fluxograma?
+Os fluxogramas podem ser uma ferramenta útil para ensinar conceitos básicos de programação, como algoritmos e estruturas de controle, pois fornecem uma representação visual das etapas envolvidas em um programa. No entanto, eles podem não ser a forma mais eficaz de ensinar conceitos de programação mais complexos e não devem ser confiados exclusivamente. Outros métodos de ensino, como escrever código e trabalhar com exemplos, também são importantes para ajudar os estudantes a obterem uma compreensão mais profunda da programação. (Scanlan , 1989)
+
+Para usar um fluxograma, estes são os passos mais comuns: 
+
+Identificar o processo: Defina o processo que você deseja representar no fluxograma. Isso pode ser um processo de negócios, um algoritmo de software ou um processo de solução de problemas.
+
+Dividir o processo em etapas menores: Divida o processo em etapas menores e gerenciáveis que possam ser representadas no fluxograma.
+
+Escolher símbolos: Escolha os símbolos apropriados para representar as diferentes etapas do processo. Os símbolos comuns usados em fluxogramas incluem retângulos para etapas de processo, diamantes para pontos de decisão e setas para linhas de fluxo.
+
+Criar o fluxograma: Usando os símbolos e setas, desenhe o fluxograma para representar o processo, começando pela primeira etapa e terminando com a última etapa.
+
+Revisar e aperfeiçoar: Revise o fluxograma por precisão e clareza e aperfeiçoe-o conforme necessário.
+
+Uma vez que o fluxograma estiver completo, ele pode ser usado para explicar o processo, facilitar a comunicação e apoiar a solução de problemas e a tomada de decisão.
+
+
+
+

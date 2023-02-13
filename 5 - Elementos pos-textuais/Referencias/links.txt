@@ -18,3 +18,20 @@ Comparisons. California States University at Sacramento.
 
 Shneiderman B. et al, (1977) "Experimental Investigations of the Utility of Detailed
 Flowcharts in Programming." Comm. ACM, pp. 373-381 
+
+
+# mais alguns pontos
+
+Francisco Aparecido Gomes e Marco Antônio Moreira da Silva; Diagramas de fluxo: ferramenta de apoio para a codificação de programas
+
+Silvio José Vicari; Algoritmos e Fluxogramas: uma abordagem didática
+
+Fabrício Kury; Desenhando Algoritmos: uma abordagem visual para a resolução de problemas
+
+Luiz Carlos Valente; Introdução à Programação com Fluxogramas
+
+José Milton de Souza, Fluxograma: ferramenta essencial para o desenvolvimento de software.
+
+Susan Cody-Rydzewski, "Flowcharting and Pseudocode" in A Guide to Software Package Evaluation & Selection.
+
+"Flowcharting: A Powerful Tool for Understanding Computer Algorithms" in IEEE Annals of the History of Computing, Vol. 7, No. 1, January-March 1985.
