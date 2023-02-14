@@ -1,4 +1,34 @@
+As disciplinas de lógica de programação geralmente têm como objetivo ensinar aos alunos os princípios fundamentais de programação de computadores. Essas disciplinas normalmente são oferecidas no início de um curso de graduação em ciência da computação ou tecnologia da informação, mas também podem ser encontradas em cursos introdutórios em programação em outras áreas.
+
+Durante as aulas de lógica de programação, os alunos geralmente aprendem conceitos como variáveis, tipos de dados, operadores, estruturas de controle (como condicionais e loops), funções, algoritmos, entre outros. Os alunos também podem aprender a desenvolver algoritmos simples e implementá-los usando uma linguagem de programação específica.
+
+A lógica de programação é fundamental para o desenvolvimento de software, pois ensina aos alunos a pensar de maneira estruturada e lógica. Além disso, é um pré-requisito para disciplinas mais avançadas de programação e para o desenvolvimento de aplicações mais complexas. Aprender lógica de programação é, portanto, um passo importante para quem deseja se tornar um programador ou desenvolvedor de software.
 
 O universo dos sistemas de informação está em evolução constante e devido a isso se faz necessário que a estrutura de aprendizado seja adaptada para atender a essa evolução no mesmo ritmo. Diversos pesquisadores já buscaram soluções e publicaram propostas de ensino que facilitariam a evolução da educação no campo da computação, entre eles estão membros da IEEE que realizaram a elaboração de um documento com um conjunto de recomendações para o ensino, entre eles temos como destaque o incremento de habilidades pessoais e interpessoais, trabalho em equipe e o uso de prática para a reolução de problemas (DRAFT, 2013). 
+
 Do Santos(2022) escreveu uma analise sobre o documento da IEEE colocando criticas a ele, afirmando ser muito técnico e que a grande quantidade de assuntos teoricos somados com pouca prática geram pouco engajamento e alto índice de frustução. Outros pesquisadores (Dewi e Muniandy, 2014; Deisel, 2017; Oliveira, 2013) defendem que o para que a dificuldade da educação de computação seja solucionado se faz necessário o uso do paradigma de ensino ativo. Neste paradigma é pregado que o ensino deve ir alem da relação aluno com professor e que funciona envolvendo o aluno no conteudo de forma que o mesmo deva buscar o conhecimento de diversas formas, seja pesquisa, estudos em casa, discussoes em grupo, etc e neste cenário o professor seria apenas um facilitador de conhecimento (Brame, 2016).
-O ensino ativo vem ganhando força e gerando diversos métodos baseados no seu conceito. Esses métodos estão incorporando diversas metodologias que buscam fortalecer o aprendizado e contruir nos alunos habilidades necessária, tudo isso partindo de simulações... [Continuar]
+
+O ensino ativo vem ganhando força e gerando diversos métodos baseados no seu conceito. Esses métodos estão incorporando diversas metodologias que buscam fortalecer o aprendizado e contruir nos alunos habilidades necessária, tudo isso partindo de simulações e usando tecnologias emergentes como o Low Code. Estas simulações abordam cenários por meio de métodos ágeis, aprendizado baseado em projeto e aprendizado baseado em problema (Dewi e Muniandy, 2014).
+
+
+Metodos ageis na educação
+
+Ao adotar métodos ágeis na educação, os professores e alunos podem trabalhar juntos para criar um ambiente de aprendizagem colaborativo e eficaz, que incentiva a participação ativa dos alunos e ajuda a garantir que o processo de ensino seja adaptado às necessidades individuais dos alunos (DEWI E MUNIANDY, 2014). Esses métodos enfatizam a colaboração, a entrega contínua de valor, a comunicação efetiva e a adaptação contínua de processos e práticas com base no feedback dos alunos. 
+
+Ao adotar métodos ágeis no ensino de engenharia de software, os professores podem fornecer aos alunos uma experiência mais prática e significativa de desenvolvimento de software. Eles podem usar técnicas como programação em pares, sprints educacionais, metodologias ativas de aprendizagem, revisões de código e feedback constante para ajudar os alunos a aprender os princípios fundamentais de engenharia de software de maneira mais eficaz. (METRÔLHO, 2020)
+
+Os métodos ágeis também ajudam a preparar os alunos para a indústria de desenvolvimento de software, onde os métodos ágeis são amplamente utilizados. Os alunos que têm experiência com métodos ágeis durante a faculdade estão mais bem equipados para trabalhar em equipes ágeis e se adaptar rapidamente a mudanças nos requisitos do projeto.
+
+Estudos como (METRÔLHO, 2020) também mostraram que a aplicação de métodos ágeis no ensino de engenharia de software pode levar a uma melhoria na satisfação do aluno, no desempenho acadêmico e no sucesso na carreira após a formatura. Portanto, a utilização de métodos ágeis para o ensino de engenharia de software pode ser uma abordagem efetiva para preparar os alunos para o sucesso em suas futuras carreiras em desenvolvimento de software.
+
+Algumas das práticas ágeis comuns que podem ser aplicadas na educação incluem:
+
+Sprints educacionais: períodos de tempo curtos e definidos em que os alunos trabalham em projetos específicos, com objetivos claros e prazos de entrega.
+
+Metodologias ativas de aprendizagem: onde os alunos são incentivados a participar ativamente das atividades de aprendizagem, trabalhar em grupos, realizar pesquisas e aplicar seus conhecimentos em projetos práticos.
+
+Design thinking: uma abordagem centrada no usuário para resolver problemas, que envolve empatia com os alunos, prototipação e testes iterativos de soluções.
+
+Feedback constante: Os professores podem coletar feedback dos alunos regularmente sobre o processo de ensino e adapte o curso de acordo.
+
+Scrum educacional: onde os professores atuam como Scrum Masters e os alunos como membros da equipe, seguindo a metodologia do Scrum para gerenciar projetos educacionais.
