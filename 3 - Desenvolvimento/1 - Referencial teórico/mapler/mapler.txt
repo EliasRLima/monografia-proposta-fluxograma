@@ -1,0 +1,27 @@
+O Mapler - Interpretador Portugol é uma ferramenta que busca disponibilizar um ambiente completo para o ensino de logica de programação e algoritmos, para isso o mesmo dispõe de diversas funcionalidades como uma IDE completa para desenvolver em portugues estruturado (Portugol) e um ambiente para desenvolver fluxogramas.
+
+O Mapler atualmente é mantido por alunos e professores do instituto federal do Maranhão, desde 2019 o mesmo vem recebendo uma serie de updates para corrigir bugs e adicionar mais funcionalidades para sua IDE. 
+Sua IDE(versionada atualmente como 0.0.5) funciona em desktops e basicamente funciona com três telas:
+
+INICIAL:
+Nesta tela temos o acesso para diversas funcionalidades da IDE.
+-Botao para criar um novo código Portugol
+-Botao para carregar código portugol de um arquivo
+-Botao para criar um novo fluxograma
+-Botao para carregar o fluxograma de um arquivo
+-Serie de links para documentações referente ao projeto e a sintaxe.
+
+CÓDIGO:
+Esta é a tela da área destinada ao desenvolvimento em portugol.
+-Menu com configurações, Sobre, opções de arquivos, opções de tradução e busca rapida por exemplos
+-Console para acompanhar e/ou interagir com a execução do código
+-Existe janelas ocultas que aparecem conforme interação, são elas: Aba de teste de mesa e a aba de exemplos + traduções
+-Botoes de acesso rapido para executar, depurar e traduzir o código
+
+
+FLUXOGRAMAS:
+Esta é a tela da área destinada ao desenvolvimento de fluxogramas.
+-Menu com configurações, Sobre, opções de arquivos e opções de tradução
+-Area com figuras que podem ser utilizadas
+-Area de console para receber mensagens como erros e avisos
+-Botoes de acesso rapido para configurar como o mouse deve interagir com o código
